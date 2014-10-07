@@ -60,12 +60,12 @@ Type TScrambleGame Extends TGame
 		Self.SetFontScale(0.6)
 
 		'create game controls
-		AddKeyControl( TKeyControl.Create("UP", KEY_UP) )
-		AddKeyControl( TKeyControl.Create("DOWN", KEY_DOWN) )
-		AddKeyControl( TKeyControl.Create("LEFT", KEY_LEFT) )
-		AddKeyControl( TKeyControl.Create("RIGHT", KEY_RIGHT) )
-		AddKeyControl( TKeyControl.Create("BOMB", KEY_X) )
-		AddKeyControl( TKeyControl.Create("BULLET", KEY_Z) )
+		AddKeyControl( "UP", KEY_UP)
+		AddKeyControl( "DOWN", KEY_DOWN)
+		AddKeyControl( "LEFT", KEY_LEFT)
+		AddKeyControl( "RIGHT", KEY_RIGHT)
+		AddKeyControl( "BOMB", KEY_X)
+		AddKeyControl( "BULLET", KEY_Z)
 
 		'add states
 		AddGameState( New TTitleState, STATE_TITLE )
