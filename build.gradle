@@ -1,0 +1,18 @@
+def PROJECT_NAME = "scramble.bmx"
+
+task build_project << {
+        println "Building project...\n"
+
+        def command = "bmk makeapp -r -a -t gui -x $PROJECT_NAME"
+        print "Running command: '$command'\n"
+
+        def proc = command.execute()
+        proc.in.eachLine  {line -> println line}
+        proc.err.eachLine {line -> println 'ERROR: ' + line}
+        proc.waitFor()
+
+        def exitValue = proc.exitValue()
+        if (exitValue != 0) {
+                throw new GradleException ("Build project failed with exit code: $exitValue")
+        }
+}

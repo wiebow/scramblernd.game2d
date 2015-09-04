@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"plagas",
+				"playgamesound	playgamesound"
+			],
+			[
+				"keyconhi",
+				"keycontrolhit	keycontrolhit"
+			],
+			[
+				"adden",
+				"addentity	addentity"
+			],
+			[
+				"cleae",
+				"clearentities	clearentities"
+			],
+			[
+				"add",
+				"addentitygroup	addentitygroup"
+			],
+			[
+				"addeng",
+				"addentitygroup	addentitygroup"
+			],
+			[
+				"getreso",
+				"getresourcesound	getresourcesound"
+			],
+			[
+				"addrest",
+				"addresourcestring	addresourcestring"
+			],
+			[
+				"adds",
+				"addsound	addsound"
+			],
+			[
+				"adim",
+				"addimage	addimage"
+			],
+			[
+				"addre",
+				"addresourcegroup	addresourcegroup"
+			],
+			[
+				"plgas",
+				"playgamesound	playgamesound"
+			],
+			[
+				"pla",
+				"playgamesound	playgamesound"
+			],
+			[
+				"me",
+				"method	method"
+			],
+			[
+				"play",
+				"playsound	playsound"
+			],
+			[
+				"TG",
+				"TGfxManager"
+			],
+			[
+				"col",
+				"colorFlash"
+			],
+			[
+				"setv",
+				"setvirtualresolution	setvirtualresolution"
+			],
+			[
+				"reso",
+				"resources"
+			],
+			[
+				"asn",
+				"assertnotnull	assertnotnull"
+			],
+			[
+				"aser",
+				"assertsame	assertsame"
+			],
+			[
+				"as",
+				"assertequalsf	assertequalsf"
+			],
+			[
+				"te",
+				"test-method	test-method"
+			],
+			[
+				"tes",
+				"test-method	test-method"
+			],
+			[
+				"tet",
+				"MyFirstTestMethod"
+			],
+			[
+				"t",
+				"test-type	test-type"
+			],
+			[
+				"asst",
+				"asserttrue	asserttrue"
+			],
+			[
+				"ass",
+				"assertsame	assertsame"
+			],
+			[
+				"assn",
+				"assertnull	assertnull"
+			],
+			[
+				"w",
+				"wh"
+			],
+			[
+				"scrip",
+				"scriptFileName"
+			],
+			[
+				"Set",
+				"SetupSound"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scramble.bmx",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/playstate.bmx",
+			"settings":
+			{
+				"buffer_size": 1767,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/scramblegame.bmx",
+			"settings":
+			{
+				"buffer_size": 3433,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Gradle: Build and run Scramble",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bli",
+				"Set Syntax: BlitzMax"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"bmx",
+			"os.getenv(\"PATH\")",
+			"path",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/public/scramblernd.game2d"
+	],
+	"file_history":
+	[
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/public/scramblernd.game2d/source/player.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/public/scramblernd.game2d/source/particle.bmx",
+		"/D/Tools/Sublime Text Build 3059 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/rock.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/player.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/bullet.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/particle.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/build.gradle",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/titlestate.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/blitzmax projects/asteroids/playstate.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/asteroids.sublime-project",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/asteroids.sublime-project",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/build.gradle",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/playstate.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/particle.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/rock.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/bullet.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/titlestate.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/asteroids.bmx",
+		"/D/Dropbox/Development/BlitzMax/projects/asteroids/player.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/titlestate.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/playstate.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/images/bullet.png",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/images/rocks.png",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/titlescreen.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/scripts/player.lua",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/FancyProjects.sublime-settings",
+		"/home/wiebo/.config/sublime-text-2/Packages/FancyProjects/FancyProjects.sublime-settings",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/resourcemanager_test.bmx",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/bag_test.bmx",
+		"/home/wiebo/.config/sublime-text-2/Packages/BlitzMax/BlitzMax.tmLanguage",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/blitzmax-snippets/test-method.sublime-snippet",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/BlitzMax/assertnotnull.sublime-snippet",
+		"/home/wiebo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/wiebo/BlitzMax/mod/wdw.mod/game2d.mod/game2d.sublime-project",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/BlitzMax/method.sublime-snippet",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wiebo/.config/sublime-text-2/Packages/User/BlitzMax/assertsame.sublime-snippet",
+		"/home/wiebo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TResources.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/build.gradle",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/game2d.sublime-project",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/unit_test",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TGame.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TRenderLayers.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TEntity.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TPosition.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TRenderLayers.bmx.bak",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/script/game2d.lua",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scramble.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TFixedTime.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/common/TVector2D.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/source/TScrambleGame.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scripts/world.lua",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scripts/tile.lua",
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/source/TTitleState.bmx",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/test/implementations/no artemax/start.bmx",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/test/unit_test.sublime-project",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/test/unit_test",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/test/unit_test.bmx",
+		"/home/wiebo/Dropbox/Development/Sublime Text/Packages/BlitzMax/BlitzMax - Build and Run GUI.sublime-build",
+		"/home/wiebo/Dropbox/Development/Sublime Text/Packages/BlitzMax/BlitzMax - Build and Run Console.sublime-build",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/game2d.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/unit_test.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/game2d.bmx",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/doc/commands.html",
+		"/opt/BlitzMax/mod/wdw.mod/game2d.mod/source/state/TGameState.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TEngine.bmx",
+		"/etc/environment"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TKeyControl.Create(",
+			"_position.Reset",
+			"G_CURRENTGAME.PlaySound",
+			"_position.GetY()",
+			"_position.GetX()",
+			"RESY",
+			"RESX",
+			"TResourceManager.GetInstance()",
+			"_position.GetY()",
+			"_position.GetX()",
+			"RESY",
+			"RESX",
+			"TResourceManager.GetInstance()",
+			"rock",
+			"g_game",
+			"RESY",
+			"RESX",
+			"_position.GetY()",
+			"_position.GetX()",
+			"TEntityManager.GetInstance()",
+			"TResourceManager.GetInstance()",
+			"g_game",
+			"_position.GetY()",
+			"_position.GetX()",
+			"G_CURRENTGAME.",
+			"_game",
+			"rm.",
+			"em.",
+			"TResourceManager.GetInstance()",
+			"G_RESX",
+			"_game.",
+			"_game",
+			"rm",
+			"game",
+			"TResourceManager.GetInstance()",
+			"resources",
+			"TResources",
+			"TEntityManager.GetInstance()",
+			"fx",
+			"game",
+			"TResources",
+			"Store",
+			"StoreImage",
+			"engine",
+			"TBag",
+			"line",
+			"_game",
+			"_engine",
+			"request",
+			"No"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scramble.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								703,
+								703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/playstate.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/scramblegame.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2113,
+								2113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "scramble.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"play",
+				"source\\playstate.bmx"
+			],
+			[
+				"scga",
+				"source\\scramblegame.bmx"
+			],
+			[
+				"",
+				"scramble.bmx"
+			],
+			[
+				"par",
+				"particle.bmx"
+			],
+			[
+				"titl",
+				"titlestate.bmx"
+			],
+			[
+				"rok",
+				"rock.bmx"
+			],
+			[
+				"plst",
+				"playstate.bmx"
+			],
+			[
+				"bull",
+				"bullet.bmx"
+			],
+			[
+				"ro",
+				"rock.bmx"
+			],
+			[
+				"title",
+				"titlestate.bmx"
+			],
+			[
+				"rock",
+				"rock.bmx"
+			],
+			[
+				"buil",
+				"build.gradle"
+			],
+			[
+				"as",
+				"asteroids.sublime-project"
+			],
+			[
+				"pla",
+				"player.bmx"
+			],
+			[
+				"pa",
+				"particle.bmx"
+			],
+			[
+				"tit",
+				"titlestate.bmx"
+			],
+			[
+				"reste",
+				"test/source/resourcemanager_test.bmx"
+			],
+			[
+				"retes",
+				"test/source/resourcemanager_test.bmx"
+			],
+			[
+				"resou",
+				"source/TResources.bmx"
+			],
+			[
+				"tentit",
+				"source/entity/TEntity.bmx"
+			],
+			[
+				"vec",
+				"source/common/TVector2D.bmx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Wiebo\\Dropbox\\Development\\BlitzMax\\projects\\boulderdash\\boulderdash.sublime-project"
+			],
+			[
+				"heli",
+				"C:\\Users\\Wiebo\\Dropbox\\Development\\BlitzMax\\blitzmax projects\\heli-test\\heli-test.sublime-workspace"
+			],
+			[
+				"gam",
+				"/home/wiebo/BlitzMax/mod/wdw.mod/game2d.mod/game2d.sublime-project"
+			],
+			[
+				"scra",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scramble.sublime-project"
+			],
+			[
+				"sc",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scramble.sublime-project"
+			],
+			[
+				"sca",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scramble.sublime-project"
+			],
+			[
+				"game",
+				"/home/wiebo/BlitzMax/mod/wdw.mod/game2d.mod/game2d.sublime-project"
+			],
+			[
+				"SCA",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scramble.sublime-project"
+			],
+			[
+				"sa",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble/scramble.sublime-project"
+			],
+			[
+				"scr",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/scramble.sublime-project"
+			]
+		],
+		"width": 656.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

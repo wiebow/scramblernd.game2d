@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"file_exclude_patterns": ["*.blpo", "*.BLIdeUS*", "*.i", "*.sublime-workspace"],
+			"folder_exclude_patterns": [".bmx", ".gradle"]
+		}
+	],
+    "build_systems": [
+	    {
+            "name": "Gradle: Build and run Scramble",
+            "cmd": "gradle --daemon build_project",
+            "working_dir": "${project_path}",
+            "shell": "true"
+        }
+    ]
+}
