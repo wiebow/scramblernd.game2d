@@ -139,31 +139,36 @@
 			"file": "scramble.bmx",
 			"settings":
 			{
-				"buffer_size": 704,
+				"buffer_size": 703,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/playstate.bmx",
-			"settings":
-			{
-				"buffer_size": 1767,
-				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "source/scramblegame.bmx",
 			"settings":
 			{
-				"buffer_size": 3433,
+				"buffer_size": 3436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/playstate.bmx",
+			"settings":
+			{
+				"buffer_size": 1766,
 				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "Gradle: Build and run Scramble",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -215,7 +220,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/public/scramblernd.game2d"
+		"/mnt/DataSSD/Linux/Repositories/BlitzMax/Public/scramblernd.game2d"
 	],
 	"file_history":
 	[
@@ -373,7 +378,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -382,15 +387,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 704,
+						"buffer_size": 703,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								703,
-								703
+								443,
+								443
 							]
 						],
 						"settings":
@@ -401,53 +406,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "source/playstate.bmx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1767,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "source/scramblegame.bmx",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3433,
+						"buffer_size": 3436,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2113,
-								2113
+								141,
+								141
 							]
 						],
 						"settings":
@@ -456,10 +432,39 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 570.0,
+						"translation.y": 720.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/playstate.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -504,6 +509,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "Gradle: Build and run Scramble",
 	"project": "scramble.sublime-project",
 	"replace":
 	{
@@ -513,6 +519,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -605,11 +612,12 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"C:\\Users\\Wiebo\\Dropbox\\Development\\BlitzMax\\projects\\boulderdash\\boulderdash.sublime-project"
+				"/mnt/DataSSD/Linux/Repositories/BlitzMax/Public/wdw.mod/game2d.mod/game2d.sublime-project"
 			],
 			[
 				"heli",
@@ -653,6 +661,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],

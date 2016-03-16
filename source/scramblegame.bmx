@@ -11,7 +11,7 @@ Type TScrambleGame Extends TGame
 
 	Method Startup()
 		HideMouse()
-		SeedRnd(MilliSecs())		
+		SeedRnd(MilliSecs())
 
 		InitializeGraphics( 800, 600, RESX, RESY )
 
@@ -56,8 +56,8 @@ Type TScrambleGame Extends TGame
 		AddResourceSound( LoadSound("media/extralife.wav"), "extra", "sounds" )
 
 		'load and set font
-		Self.SetGameFont( LoadImageFont("media/cbm64.ttf", 11, 0) )
-		Self.SetFontScale(0.6)
+		Self.SetGameFont( LoadImageFont("media/arcade.ttf", 24, 0) )
+		Self.SetGameFontScale(0.2)
 
 		'create game controls
 		AddKeyControl( "UP", KEY_UP)

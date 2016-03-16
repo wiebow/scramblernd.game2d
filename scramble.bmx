@@ -18,7 +18,7 @@ Include "source/objects.bmx"
 Const RESX:Int = 160
 Const RESY:Int = 120
 
-Const LAYER_BACKDROP:Int = 0 
+Const LAYER_BACKDROP:Int = 0
 Const LAYER_ENEMIES:Int = 1
 Const LAYER_PLAYER:Int = 2
 Const LAYER_PARTICLES:Int = 3

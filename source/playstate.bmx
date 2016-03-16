@@ -59,7 +59,7 @@ Type TPlayState Extends TState
 			SetScale 0.5, 0.5
 			Local xpos:Int = 4
 			SetRotation(-90)
-			For Local i:Int = 1 To G_PLAYER.lives - 1
+			For Local i:Int = 1 until G_PLAYER.lives
 				SetColor 0, 0, 0
 				DrawImage( GetResourceImage("objects", "images"), xpos, 116.5, 0)
 				SetColor 255, 255, 255
